@@ -1,4 +1,6 @@
 # Homework One
 ## Instructions
-  Create a folder for project,  create a homework project1, 
-do a branch and a merge locally as on Github
+1.  Create a folder for project
+2. Create a homework project1, 
+3. Create a  branch
+4. Merge locally as on Github
